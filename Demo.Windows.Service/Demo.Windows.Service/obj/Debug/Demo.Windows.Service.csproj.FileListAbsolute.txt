@@ -1,0 +1,9 @@
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.exe.config
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.exe
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.pdb
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\obj\Debug\Demo.Windows.Service.ProjectInstaller.resources
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\obj\Debug\Demo.Windows.Service.csproj.GenerateResource.cache
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\obj\Debug\Demo.Windows.Service.csproj.CoreCompileInputs.cache
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\obj\Debug\Demo.Windows.Service.exe
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\obj\Debug\Demo.Windows.Service.pdb
+C:\dev\Demo.Windows.Service\Demo.Windows.Service\obj\Debug\Demo.Windows.Service.csproj.AssemblyReference.cache

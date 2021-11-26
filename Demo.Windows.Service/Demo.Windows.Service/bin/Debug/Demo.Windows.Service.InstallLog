@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.InstallLog
+   assemblypath = C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.InstallLog
+   assemblypath = C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.exe
+Uninstalling assembly 'C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.InstallLog
+   assemblypath = C:\dev\Demo.Windows.Service\Demo.Windows.Service\bin\Debug\Demo.Windows.Service.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
